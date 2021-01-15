@@ -1,0 +1,10 @@
+.register__container {
+  background-color: transparent;
+  border: none;
+  padding: 0;
+  width: 100%;
+}
+.footer {
+  flex-direction: column;
+  align-items: flex-start;
+}
