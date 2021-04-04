@@ -1,2 +1,2 @@
-# Practice-Video-Platzi
-This is a practice of the course of Front-end development
+# Video-Platzi
+Course of Front-end development
